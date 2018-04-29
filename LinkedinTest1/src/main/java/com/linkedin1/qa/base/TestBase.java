@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.linkedin1.qa.util.TestUtil;
 
 public class TestBase {
-
+//Hello
 	public static WebDriver driver;
 	public static Properties prop;
 	public static FileInputStream fis = null;
@@ -26,7 +26,7 @@ public class TestBase {
 
 		try {
 			prop = new Properties();
-			fis = new FileInputStream("C:\\Users\\sheth\\eclipse-workspace\\LinkedinTest1\\src\\main\\java\\com\\linkedin1\\qa\\config\\cofig.properties");
+			fis = new FileInputStream("C:\\Users\\sheth\\Mylocalgit\\LinkedinTest1\\src\\main\\java\\com\\linkedin1\\qa\\config\\cofig.properties");
 			prop.load(fis);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
