@@ -16,8 +16,6 @@ import com.linkedin1.qa.util.TestUtil;
 
 public class TestBase {
 //Hello
-	//How are you
-	//wonderful
 	public static WebDriver driver;
 	public static Properties prop;
 	public static FileInputStream fis = null;
