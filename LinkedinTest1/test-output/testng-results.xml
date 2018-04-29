@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="41044" started-at="2018-04-28T15:40:51Z" finished-at="2018-04-28T15:41:32Z">
+  <suite name="Default suite" duration-ms="27996" started-at="2018-04-29T21:25:21Z" finished-at="2018-04-29T21:25:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="41044" started-at="2018-04-28T15:40:51Z" finished-at="2018-04-28T15:41:32Z">
+    <test name="Default test" duration-ms="27996" started-at="2018-04-29T21:25:21Z" finished-at="2018-04-29T21:25:49Z">
       <class name="com.linkedin1.qa.tests.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="setUp" is-config="true" duration-ms="20237" started-at="2018-04-28T15:40:51Z" finished-at="2018-04-28T15:41:12Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="setUp" is-config="true" duration-ms="7607" started-at="2018-04-29T21:25:21Z" finished-at="2018-04-29T21:25:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="verifyLoginPageTitleTest" duration-ms="61" started-at="2018-04-28T15:41:12Z" finished-at="2018-04-28T15:41:12Z">
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="verifyLoginPageTitleTest" duration-ms="42" started-at="2018-04-29T21:25:28Z" finished-at="2018-04-29T21:25:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="tearDown" is-config="true" duration-ms="2171" started-at="2018-04-28T15:41:12Z" finished-at="2018-04-28T15:41:14Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="tearDown" is-config="true" duration-ms="2135" started-at="2018-04-29T21:25:28Z" finished-at="2018-04-29T21:25:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="setUp" is-config="true" duration-ms="6631" started-at="2018-04-28T15:41:14Z" finished-at="2018-04-28T15:41:20Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="setUp" is-config="true" duration-ms="5791" started-at="2018-04-29T21:25:30Z" finished-at="2018-04-29T21:25:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLoginPageLogo()[pri:2, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="verifyLoginPageLogo" duration-ms="122" started-at="2018-04-28T15:41:20Z" finished-at="2018-04-28T15:41:21Z">
+        <test-method status="PASS" signature="verifyLoginPageLogo()[pri:2, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="verifyLoginPageLogo" duration-ms="270" started-at="2018-04-29T21:25:36Z" finished-at="2018-04-29T21:25:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageLogo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="tearDown" is-config="true" duration-ms="2145" started-at="2018-04-28T15:41:21Z" finished-at="2018-04-28T15:41:23Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="tearDown" is-config="true" duration-ms="2123" started-at="2018-04-29T21:25:36Z" finished-at="2018-04-29T21:25:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="setUp" is-config="true" duration-ms="5714" started-at="2018-04-28T15:41:23Z" finished-at="2018-04-28T15:41:28Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="setUp" is-config="true" duration-ms="5542" started-at="2018-04-29T21:25:39Z" finished-at="2018-04-29T21:25:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="loginTest" duration-ms="1663" started-at="2018-04-28T15:41:28Z" finished-at="2018-04-28T15:41:30Z">
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="loginTest" duration-ms="1993" started-at="2018-04-29T21:25:44Z" finished-at="2018-04-29T21:25:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="tearDown" is-config="true" duration-ms="2214" started-at="2018-04-28T15:41:30Z" finished-at="2018-04-28T15:41:32Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.linkedin1.qa.tests.LoginPageTest@2a70a3d8]" name="tearDown" is-config="true" duration-ms="2440" started-at="2018-04-29T21:25:46Z" finished-at="2018-04-29T21:25:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
